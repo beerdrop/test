@@ -1,3 +1,7 @@
+# Note
+- hogehoge
+- 以下守ってね
+
 # Checkpoint
 
 ## WRITER
