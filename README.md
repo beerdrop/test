@@ -11,10 +11,10 @@ Either an English name or transliteration of your name in English has been used
   The post is written in an easy-to-read structure
 
 ## PR
-- [ ] ****のイメージを損なう恐れがある情報が含まれていない。　<br>
-There is no information that may compromise the integrity of ****
-- [ ] ****または他社の製品に対するネガティブな表現が含まれていない。　<br>
-The content of the post is not excessively negative of **** or any other company's work/views
+- [ ] hogeのイメージを損なう恐れがある情報が含まれていない。　<br>
+There is no information that may compromise the integrity of hoge
+- [ ] hogeまたは他社の製品に対するネガティブな表現が含まれていない。　<br>
+The content of the post is not excessively negative of hoge or any other company's work/views
 - [ ] 製品の機能追加や新規リリース、公式イベントなど、確定されていない事業計画について推測で書いていない。　<br>
 There are no comments involving speculation or unsubstantiated information regarding company plans
 - [ ] 機密情報を公開していない。　<br>
