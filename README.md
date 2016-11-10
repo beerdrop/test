@@ -1,10 +1,7 @@
-# 進め方
+# Important Notice
 - hogehoge
 - 期限厳守ね
 - 以下のcheckpointは必ず守ってね
-
-# Schedule
-- URL
 
 # Checkpoint
 ## WRITER
@@ -35,4 +32,7 @@ The content of the post does not include confidential information
 None of the images used are protected under copyright
 
 # Guideline
+- URL
+
+# Schedule
 - URL
