@@ -3,8 +3,10 @@
 - 期限厳守ね
 - 以下のcheckpointは必ず守ってね
 
-# Checkpoint
+# Schedule
+- URL
 
+# Checkpoint
 ## WRITER
 - [ ] 名前は、英語を使って表記している。　<br>
 Either an English name or transliteration of your name in English has been used
