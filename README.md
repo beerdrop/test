@@ -1,6 +1,7 @@
-# Note
+# 進め方
 - hogehoge
-- 以下守ってね
+- 期限厳守ね
+- 以下のcheckpointは必ず守ってね
 
 # Checkpoint
 
