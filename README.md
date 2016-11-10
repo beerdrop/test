@@ -1,7 +1,7 @@
 # Important Notice
-- hogehoge
 - 期限厳守ね
 - 以下のcheckpointは必ず守ってね
+- hogehoge
 
 # Checkpoint
 ## WRITER
