@@ -12,11 +12,11 @@ Advent Calendarの実施は、本ブログ開設以来、初めてとなりま�
 ## プレゼントについて
 Advent Calendarはクリスマスシーズンのお楽しみイベントでもありますので、本ブログをご覧頂いている皆様にも、ささやかなプレゼントをご用意しました。
 
-12月中にhoge Advent Calendarの記事をReTweetして頂いた方から抽選で1名様に、hogeのキャラクター、ブラウンの土鍋をお送りいたします（※）。今年の冬はラニーニャ現象で厳しい寒さになると予想されていますが、この鍋を活用し温まることで乗り切って頂ければと思います。
+12月中にhoge Advent Calendarの記事をReTweetして頂いた方から抽選で1名様に、hogeのキャラクター、[ブラウンの土鍋](https://www.linefriends.jp/products/317185236)をお送りいたします（※）。今年の冬はラニーニャ現象で厳しい寒さになると予想されていますが、この鍋を活用し温まることで乗り切って頂ければと思います。
 
 （※）当選は対象のアカウントにダイレクトメッセージにてご連絡します。また商品の発送は2017/1予定です。
 
-![donabe_brown](https://scdn.line-apps.com/lcp-prod-photo/20161012_129/lfsec_1476275974158nObDx_PNG/NabeSet_04_160912_1160px.png =100x)
+![donabe_brown](https://scdn.line-apps.com/lcp-prod-photo/20161012_129/lfsec_1476275974158nObDx_PNG/NabeSet_04_160912_1160px.png =50x)
 
 ## 執筆スケジュール
 
